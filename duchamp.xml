@@ -11,7 +11,13 @@
     <project
         name="ramji14/vendor_xiaomi_duchamp"
         path="vendor/xiaomi/duchamp"
-        revision="lineage-23.0" />
+        revision="bka" />
+
+        <!-- miui-camera -->
+    <project
+        name="ramji14/device_xiaomi_duchamp-miuicamera"
+        path="device/xiaomi/duchamp-miuicamera"
+        revision="bka" />
 
     <!-- Prebuilt Kernel -->
     <project
