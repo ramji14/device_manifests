@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Device -->
+    <project
+        name="ramji14/device_xiaomi_duchamp"
+        path="device/xiaomi/duchamp"
+        revision="lineage-23.2" />
+
+    <!-- Vendor -->
+    <project
+        name="ramji14/vendor_xiaomi_duchamp"
+        path="vendor/xiaomi/duchamp"
+        revision="lineage-23.0" />
+
+    <!-- Prebuilt Kernel -->
+    <project
+        name="ramji14/device_xiaomi_duchamp-kernel"
+        path="device/xiaomi/duchamp-kernel"
+        revision="lineage-23.2" />
+
+    <!-- MediaTek Hardware -->
+    <project
+        name="ramji14/hardware_mediatek"
+        path="hardware/mediatek"
+        revision="lineage-23.2" />
+
+    <!-- Xiaomi Hardware -->
+    <project
+        name="ramji14/hardware_xiaomi"
+        path="hardware/xiaomi"
+        revision="lineage-23.2" />
+
+    <!-- MediaTek SELinux -->
+    <project
+        name="ramji14/device_mediatek_sepolicy_vndr"
+        path="device/mediatek/sepolicy_vndr"
+        revision="lineage-23.2" />
+
+</manifest>
